@@ -21,7 +21,7 @@ Add the dependency to your `manifest.json`
 Simply call the following to get an id:
 
 ```csharp
-var hash = xxHash64.ComputeHash(data, data.Length);
+var hash = xxHash64.ComputeHash(data, 0, data.Length);
 Debug.Log($"Hash: {hash}");
 ```
 
