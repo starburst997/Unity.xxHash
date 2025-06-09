@@ -1,0 +1,15 @@
+{
+  "name": "jd.boiv.in.xxhash",
+  "version": "1.0.0",
+  "displayName": "xxHash",
+  "description": "Extremely fast non-cryptographic hash algorithm xxhash",
+  "dependencies": {
+    
+ },
+ "keywords": [
+    "hash", "xxhash"
+  ],
+  "author": {
+    "name": "Oleksandr Melnyk"
+  }
+}
